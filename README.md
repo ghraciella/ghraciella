@@ -83,7 +83,16 @@ I am an industrial mathematician 👩🏾‍🏫 and full stack data practitione
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
+Summary
 
+* Data Practitioner and Python Software Developer
+* Self development and Continous learning
+* Sentient Plant 🪴:
+* Music is healing, Music is Soul 🎵
+* Foodie and Fitness lover 
+* Avid Reader, Audio-Visual Learner
+* Love reading books, travelling, swimming, dancing, watching movies and so on.
+* Fun fact about me: I wanted to be a mad scientist and teacher 👩‍🏫: as a kid.
 
 ---
 ---
@@ -102,27 +111,25 @@ I am constantly motivated by every new experience I learn through data and alway
 ### Software Tools, Languages and Libraries  :
 
 
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=plastic&logo=python&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-white?style=plastic&logo=git)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visualstudiocode&logoColor=3aa7f2)
+![Markdown](http://img.shields.io/badge/-Markdown-white?style=plastic&logo=markdown&logoColor=black)
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=plastic&logo=linux&logoColor=black)
+![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=plastic&logo=gnu-bash&logoColor=black)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![C++](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=cpp&logoColor=bc2043)
-![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Pandas](https://img.shields.io/badge/pandas_white.svg?style=plastic&logo=pandas&logoColor=white)
+![SQL](http://img.shields.io/badge/-Sql-00758f?style=plastic&logo=Mysql&logoColor=white)
+![PostgreSQL](http://img.shields.io/badge/postgresql-vertical.svg?style=plastic&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=plastic&logo=C++&logoColor=bc2043)
+![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=plastic&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=plastic&logo=tensorflow&logoColor=FF6F00)
+![Pandas](https://img.shields.io/badge/Pandas-white.svg?style=plastic&logo=pandas&logoColor=black)
 ![Numpy](https://img.shields.io/badge/numpy-ar21.svg?style=plastic&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-ar21.svg?style=plastic&logo=jupyter&logoColor=white)
-![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)
+![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=plastic&logo=scikit-learn&logoColor=e26d00)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white)
 ![Google Forms](https://img.shields.io/badge/-GoogleForms-purple?style=plastic&logo=forms&logoColor=EE4C2C)
-![Jira](https://img.shields.io/badge/atlassian_jira-ar21.svg?style=flat-square&logo=jira&logoColor=blue)
-
-
-
+![Jira](https://img.shields.io/badge/atlassian_jira-icon.svg?style=plastic&logo=jira&logoColor=blue)
 
 
 ### Soft Skills:
