@@ -85,8 +85,9 @@ I am constantly motivated by every new experience I learn through data and alway
 
 Summary
 
-* Data Practitioner and Python Software Developer
+* Data Practitioner and Backend Software Developer
 * Self development and Continous learning
+* Favourite toolkit so far: Python, VSCode, Git/Github, SQL
 * Sentient Plant 🪴:
 * Music is healing, Music is Soul 🎵
 * Foodie and Fitness lover 
