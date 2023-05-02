@@ -243,5 +243,6 @@ my Github stats
 
 -->
 ----
-- Most Recent Edit : Monday 03 April, 2023
+- Most Recent Edit : 30.04.23
 - Author: [ghraciella](https://github.com/ghraciella)
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghraciella&label=Profile%20views&color=b45f06&style=plastic" alt="ghraciella" /> </p>
