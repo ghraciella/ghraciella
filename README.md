@@ -79,21 +79,25 @@ kaggle-icon.svg
 ## Short Bio: 
 
 
-I am an industrial mathematician 👩🏾‍🏫 and full stack data practitioner 👩🏾‍💻 with interest in the areas of; data science, data analysis, data engineering and software development. 
+I am an industrial mathematician 👩🏾‍🏫 and data practitioner 👩🏾‍💻 with interest in the areas of; data science, data analysis, data engineering and software development. 
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
 Summary
 
 * Data Practitioner and Backend Software Developer
+* Analytical Engineering
 * Self development and Continous learning
+* Agile and Data driven mindset.
 * Favourite toolkit so far: Python, VSCode, Git/Github, SQL
-* Sentient Plant 🪴:
+* Sentient Plant 🪴
+* Neurodiverse 
+* Resting is doing ☯︎
 * Music is healing, Music is Soul 🎵
-* Foodie and Fitness lover 
-* Avid Reader, Audio-Visual Learner
+* Audio-Visual Learner 
+* Avid Reader 📚 and Pseudo-Poet 📝😅
 * Love reading books, travelling, swimming, dancing, watching movies and so on.
-* Fun fact about me: I wanted to be a mad scientist and teacher 👩‍🏫: as a kid.
+* Random fun fact about me: I wanted to be a mad scientist 🧬👩🏾‍🔬 and teacher 👩‍🏫 as a kid.
 
 ---
 ---
@@ -136,7 +140,7 @@ Summary
 ### Soft Skills:
 
 <div id="badges">
-  <a href="DataDriven Mindset">
+  <a href="Data-Driven Mindset">
     <img src="https://img.shields.io/badge/datadriven-mindset-eee?logo=datadriven-mindset&logoColor==white&style=flat"/>
   </a>
   <a href="Agile Methodologies">
@@ -174,14 +178,18 @@ Summary
   </a>
 </div>
 
----
----
+
 <!--
 
 - Github streak stats
 
 -->
 
+<!--   
+                                                                                                                         
+---
+---
+                                                                                                                         
 ## My Github Usage and Contribution Trail 💻 🧗🏽‍♀️... 
 
 
@@ -197,7 +205,7 @@ Summary
 </div>
 
 
-
+-->
 
 
 
@@ -240,9 +248,9 @@ my Github stats
 <!-- 
 
 -Most Recent Edit : Monday 03 April, 2023
+- Most Recent Edit : 07.06.23
 
 -->
 ----
-- Most Recent Edit : 30.04.23
 - Author: [ghraciella](https://github.com/ghraciella)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghraciella&label=Profile%20views&color=b45f06&style=plastic" alt="ghraciella" /> </p>
