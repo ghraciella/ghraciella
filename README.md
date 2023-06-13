@@ -79,17 +79,16 @@ kaggle-icon.svg
 ## Short Bio: 
 
 
-I am an industrial mathematician 👩🏾‍🏫 and data practitioner 👩🏾‍💻 with interest in the areas of; data science, data analysis, data engineering and software development. 
+I am an industrial mathematician 👩🏾‍🏫 and data practitioner 👩🏾‍💻 with interest in the areas of; data science, data analysis, data engineering, analytical engineering and software development. 
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
 Summary
 
 * Data Practitioner and Backend Software Developer
-* Analytical Engineering
 * Self development and Continous learning
 * Agile and Data driven mindset.
-* Favourite toolkit so far: Python, VSCode, Git/Github, SQL
+* Favourite toolkit so far: Python, SQL(PostgreSql), Git/Github
 * Sentient Plant 🪴
 * Neurodiverse 
 * Resting is doing ☯︎
@@ -124,24 +123,26 @@ Summary
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=plastic&logo=gnu-bash&logoColor=black)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![SQL](http://img.shields.io/badge/-Sql-00758f?style=plastic&logo=Mysql&logoColor=white)
-![PostgreSQL](http://img.shields.io/badge/postgresql-vertical.svg?style=plastic&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=plastic&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=plastic&logo=C++&logoColor=bc2043)
 ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=plastic&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=plastic&logo=tensorflow&logoColor=FF6F00)
 ![Pandas](https://img.shields.io/badge/Pandas-white.svg?style=plastic&logo=pandas&logoColor=black)
 ![Numpy](https://img.shields.io/badge/numpy-ar21.svg?style=plastic&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-ar21.svg?style=plastic&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-orange?style=plastic&logo=jupyter&logoColor=white)
 ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=plastic&logo=scikit-learn&logoColor=e26d00)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white)
-![Google Forms](https://img.shields.io/badge/-GoogleForms-purple?style=plastic&logo=forms&logoColor=EE4C2C)
-![Jira](https://img.shields.io/badge/atlassian_jira-icon.svg?style=plastic&logo=jira&logoColor=blue)
-
-
+![Google Forms](https://img.shields.io/badge/-Google%20Forms%20-purple?style=plastic&logo=forms&logoColor=EE4C2C)
+![Jira](https://img.shields.io/badge/atlassian_jira-white?style=plastic&logo=jira&logoColor=blue)
+![DBeaver](https://img.shields.io/badge/-DBeaver-brown?style=plastic&logo=DBeaver&logoColor=white)
+      
+    
+       
 ### Soft Skills:
 
 <div id="badges">
   <a href="Data-Driven Mindset">
-    <img src="https://img.shields.io/badge/datadriven-mindset-eee?logo=datadriven-mindset&logoColor==white&style=flat"/>
+    <img src="https://img.shields.io/badge/data%20driven-mindset-eee?logo=data%20driven-mindset&logoColor==white&style=flat"/>
   </a>
   <a href="Agile Methodologies">
     <img src="https://img.shields.io/badge/agile-methodologies-eee?logo=agile-methodologies&logoColor==white&style=flat"/>
@@ -158,8 +159,8 @@ Summary
   <a href="Effective Communication">
     <img src="https://img.shields.io/badge/effective-communication-eee?logo=effective-communication&logoColor==white&style=flat"/>
   </a>
-  <a href="Resourcefulness">
-    <img src="https://img.shields.io/badge/resourcefulness-eee?logo=resourcefulness&logoColor==white&style=flat"/>
+  <a href="Resourcefulness-Resilience">
+    <img src="https://img.shields.io/badge/resourcefulness%20-resilience-eee?logo=resourcefulness-resilience&logoColor==white&style=flat"/>
   </a>  
   <a href="Independent Research">
     <img src="https://img.shields.io/badge/independent-research-eee?logo=independent-research&logoColor=F=white&style=flat"/>
