@@ -90,7 +90,9 @@ Summary
 * Agile and Data driven mindset.
 * Favourite toolkit so far: Python, SQL(PostgreSql), Git/Github
 * Sentient Plant 🪴
+<!--
 * Neurodiverse 
+-->
 * Resting is doing ☯︎
 * Music is healing, Music is Soul 🎵
 * Audio-Visual Learner 
