@@ -94,7 +94,7 @@ Summary
 * Neurodiverse 
 -->
 * Resting is doing ☯︎
-* Music is healing, Music is Soul 🎵
+* Music is Therapy, Music is Soul 🎵
 * Audio-Visual Learner 
 * Avid Reader 📚 and Pseudo-Poet 📝😅
 * Love reading books, travelling, swimming, dancing, watching movies and so on.
