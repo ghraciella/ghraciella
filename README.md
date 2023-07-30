@@ -85,20 +85,22 @@ I am constantly motivated by every new experience I learn through data and alway
 
 Summary
 
-* Data Practitioner and Backend Software Developer
-* Self development and Continous learning
+* Data Practitioner and Software Developer
+* Self development and Continuous learning
 * Agile and Data driven mindset.
 * Favourite toolkit so far: Python, SQL(PostgreSql), Git/Github
-* Sentient Plant 🪴
 <!--
 * Neurodiverse 
 -->
+* Sentient Plant 🪴
+* Ambivert
+* The beautiful pattern of randomness
 * Resting is doing ☯︎
-* Music is Therapy, Music is Soul 🎵
+* Music is Therapy, Music is Soul 🎵 
 * Audio-Visual Learner 
 * Avid Reader 📚 and Pseudo-Poet 📝😅
-* Love reading books, travelling, swimming, dancing, watching movies and so on.
-* Random fun fact about me: I wanted to be a mad scientist 🧬👩🏾‍🔬 and teacher 👩‍🏫 as a kid.
+* Hobbies : Unlimited - Love reading books, travelling, swimming, dancing, watching movies and so on.
+* Random fact about me: I wanted to be a mad scientist 🧬👩🏾‍🔬 and teacher 👩‍🏫 as a kid or a Librarian.
 
 ---
 ---
@@ -155,8 +157,8 @@ Summary
   <a href="Project Management">
     <img src="https://img.shields.io/badge/project-management-eee?logo=project-management&logoColor==white&style=flat"/>
   </a>
-  <a href="Continous Learning">
-    <img src="https://img.shields.io/badge/continous-learning-eee?logo=continous-learning&logoColor==white&style=flat"/>
+  <a href="Continuous Learning">
+    <img src="https://img.shields.io/badge/continuous-learning-eee?logo=continuous-learning&logoColor==white&style=flat"/>
   </a>
   <a href="Effective Communication">
     <img src="https://img.shields.io/badge/effective-communication-eee?logo=effective-communication&logoColor==white&style=flat"/>
@@ -250,10 +252,13 @@ my Github stats
 
 <!-- 
 
--Most Recent Edit : Monday 03 April, 2023
-- Most Recent Edit : 07.06.23
+- Most Recent Edit : Fri 21 July, 2023
+- Most Recent Edit : 21.07.23
 
 -->
 ----
 - Author: [ghraciella](https://github.com/ghraciella)
+
+<!---
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghraciella&label=Profile%20views&color=b45f06&style=plastic" alt="ghraciella" /> </p>
+--->
