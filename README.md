@@ -34,10 +34,10 @@ Contact Links
 
 ---
 ---
-# <div align="center"> My Github Project Portfolio </div>
+# <div align="center"> Ghraycee & Github </div>
 
 
-### <div align="center"> Hi 👋🏾👋🏾, I am Grace Anulika  </div>
+### <div align="center"> Hi 👋🏾👋🏾, I am Ghraycee </div>
 
 <!--
 
@@ -79,13 +79,14 @@ kaggle-icon.svg
 ## Short Bio: 
 
 
-I am an industrial mathematician 👩🏾‍🏫 and data practitioner 👩🏾‍💻 with interest in the areas of; data science, data analysis, data engineering, analytical engineering and software development. 
+I am data practitioner 👩🏾‍💻 with interest in the areas of; data science, machine learning, data analysis, data engineering, analytical engineering and software development. 
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
 Summary
 
 * Data Practitioner and Software Developer
+* Industrial Mathematician - Data / ML 
 * Self development and Continuous learning
 * Agile and Data driven mindset.
 * Favourite toolkit so far: Python, SQL(PostgreSql), Git/Github
