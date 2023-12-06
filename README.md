@@ -72,7 +72,7 @@ kaggle-icon.svg
 
 ---
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0ZTM3YTUzZTA4ZDVmMGJlMWRiMTgxMGVjNDMzZGU4NGU3OWEzYyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" align="right" width=450 height=300>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0ZTM3YTUzZTA4ZDVmMGJlMWRiMTgxMGVjNDMzZGU4NGU3OWEzYyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" align="right" width=410 height=340>
 
 
 
