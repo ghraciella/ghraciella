@@ -83,7 +83,9 @@ I am data practitioner 👩🏾‍💻 with interest in the areas of; data scien
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
-### __Portfolio Website__ : [Link - Enjoy!](https://ghraciella.github.io/)
+* __Portfolio Website__ : [feast your eyes! 🥰 - enjoy!](https://ghraciella.github.io/)
+* __Advent of Code__ : [link to my solutions 🤔](https://github.com/ghraciella/data-projects-and-practice/tree/main/code_exercise/advent-of-code)
+* __Data Projects and Practice__ : [continuous updates 🧐🔁](https://github.com/ghraciella/data-projects-and-practice)
 
 ---
 ### Summary
@@ -95,17 +97,18 @@ I am constantly motivated by every new experience I learn through data and alway
 * Favourite toolkit so far: Python, SQL(PostgreSql), Git/Github
 <!--
 * Neurodiverse 
+* Audio-Visual Learner 
 -->
 * Sentient Plant 🪴
 * Ambivert
-* The beautiful pattern of randomness
-* Resting is doing ☯︎
 * Music is Therapy, Music is Soul 🎵 
-* Audio-Visual Learner 
 * Avid Reader 📚 and Pseudo-Poet 📝😅
+* Favorite animal : cats ♥️❤️‍🔥🤎
 * Hobbies : Unlimited - Love reading books, travelling, swimming, dancing, watching movies and so on.
 * Random fact about me: I wanted to be a mad scientist 🧬👩🏾‍🔬 and teacher 👩‍🏫 as a kid or a Librarian.
-
+* The beautiful pattern of randomness
+* Resting is doing ☯︎
+  
 ---
 ---
 
