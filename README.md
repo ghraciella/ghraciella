@@ -48,7 +48,7 @@ kaggle-icon.svg
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/grace-anulika-eze-data-unicorn/">
+  <a href="https://www.linkedin.com/in/grace-anulika-eze-data-practitioner/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://www.xing.com/profile/Grace_Eze2/cv">
@@ -60,6 +60,9 @@ kaggle-icon.svg
   <a href="https://github.com/ghraciella">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white&link=https://github.com/ghraciella"/>
   </a>
+  <a href="https://ghraciella.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio%20Website-yellow?style=plastic&logo=Portfolio%20Website&logoColor=brown&link=https://ghraciella.github.io/"/>
+  </a>
   <a href="https://www.kaggle.com/graceeze">
     <img src="https://img.shields.io/badge/-Kaggle-blue?style=plastic&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/graceeze"/>
   </a>
@@ -67,15 +70,12 @@ kaggle-icon.svg
 
 
 
-
-<div id="header" align="center">
-  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0ZTM3YTUzZTA4ZDVmMGJlMWRiMTgxMGVjNDMzZGU4NGU3OWEzYyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width=200"/>
-</div>
-
-
-
 ---
----
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0ZTM3YTUzZTA4ZDVmMGJlMWRiMTgxMGVjNDMzZGU4NGU3OWEzYyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" align="right" width=450 height=300>
+
+
+
 ## Short Bio: 
 
 
@@ -87,6 +87,8 @@ I am constantly motivated by every new experience I learn through data and alway
 * __Advent of Code__ : [link to my solutions 🤔](https://github.com/ghraciella/data-projects-and-practice/tree/main/code_exercise/advent-of-code)
 * __Data Projects and Practice__ : [continuous updates 🧐🔁](https://github.com/ghraciella/data-projects-and-practice)
 
+
+---
 ---
 ### Summary
 
@@ -115,6 +117,10 @@ I am constantly motivated by every new experience I learn through data and alway
 <!--
 
 - My top skills : Hard (Tech) Skills and Soft Skills
+
+<div id="header" align="center">
+  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E0ZTM3YTUzZTA4ZDVmMGJlMWRiMTgxMGVjNDMzZGU4NGU3OWEzYyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width=200"/>
+</div>
 
 -->
 
