@@ -79,7 +79,9 @@ kaggle-icon.svg
 ## Short Bio: 
 
 
-I am data practitioner 👩🏾‍💻 ; a data enthusiast and chaos engineer with interest in the areas of; data science, machine learning, data analysis, data engineering, business intelligence, analytical engineering and software development. 
+I am data practitioner 👩🏾‍💻 ; a data enthusiast and chaos engineer.
+
+I have diverse interests such as data science, machine learning, data analysis, data engineering, business intelligence, analytical engineering and software development. 
 
 I am constantly motivated by every new experience I learn through data and always ready to effectively use data driven methods to create solutions to business requirements.
 
